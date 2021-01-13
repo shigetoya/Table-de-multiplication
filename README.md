@@ -1,2 +1,2 @@
 # Table-de-multiplication
-Premier 
+Premier exercice en C que je stocke 
